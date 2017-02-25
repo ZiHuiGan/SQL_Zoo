@@ -18,6 +18,16 @@
 6 - D
 7 - C
 
+-- Nobel Quiz
+
+1 - E
+2 - C
+3 - B
+4 - C
+5 - C
+6 - C
+7 - D
+
 -- Nested SELECT Quiz
 
 1 - C
@@ -27,3 +37,14 @@
 5 - I chose E - correct answer is B
 6 - B
 7 - I chose C - correct answer is B
+
+-- SUM and COUNT Quiz
+
+1 - C
+2 - A
+3 - D
+4 - E
+5 - B
+6 - E
+7 - D
+8 - D
