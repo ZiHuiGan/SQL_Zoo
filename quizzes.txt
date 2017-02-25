@@ -17,3 +17,13 @@
 5 - B
 6 - D
 7 - C
+
+-- Nested SELECT Quiz
+
+1 - C
+2 - B
+3 - A
+4 - D
+5 - I chose E - correct answer is B
+6 - B
+7 - I chose C - correct answer is B
