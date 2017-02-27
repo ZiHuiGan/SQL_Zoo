@@ -77,3 +77,9 @@
 4 - B
 5 - A
 6 - A
+
+-- Self join Quiz
+
+1 - C
+2 - E
+3 - D
