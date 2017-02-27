@@ -58,3 +58,13 @@
 5 - B
 6 - C
 7 - B
+
+-- JOIN Quiz 2
+
+1 - C
+2 - E
+3 - I chose E - correct answer is C
+4 - B
+5 - D
+6 - C
+7 - B
