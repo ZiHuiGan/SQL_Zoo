@@ -68,3 +68,12 @@
 5 - D
 6 - C
 7 - B
+
+-- Using NULL Quiz
+
+1 - E
+2 - C
+3 - E
+4 - B
+5 - A
+6 - A
